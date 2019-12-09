@@ -1,3 +1,4 @@
 nama : muspira
 kelas : a
 nim : 60900117012
+praktikum kakas
